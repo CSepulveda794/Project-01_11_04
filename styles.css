@@ -133,3 +133,7 @@ label {
    width: 6em;
 }
 
+#zipset, #csset{
+    visibility: hidden;
+}
+
